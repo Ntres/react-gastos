@@ -13,8 +13,8 @@ import IconoSuscripciones from '../img/Icono_suscripciones.svg'
 
 const diccionarioIconos = {
     ahorro: IconoAhorro,
-    comida: IconoCasa,
-    casa: IconoComida,
+    comida: IconoComida,
+    casa: IconoCasa,
     gastos: IconoGastos,
     ocio: IconoOcio,
     salud: IconoSalud,
